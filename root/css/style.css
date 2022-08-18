@@ -1,0 +1,46 @@
+header {
+    background-color: rgb(255, 187, 179);
+    text-align:center;
+    font-family: 'Fredoka One', cursive;
+}
+h1 {
+    background-color: rgb(255, 156, 145);
+    color:rgb(124, 76, 70);
+    text-transform:uppercase;
+    letter-spacing: 10px;
+    font-family: 'Fredoka One', cursive;
+}
+h2 {
+    background-color: rgb(255, 156, 145);
+    color:rgb(124, 76, 70);
+    text-align:left;
+    text-transform:uppercase;
+    letter-spacing: 10px;
+    font-family: 'Fredoka One', cursive;
+}
+ul {
+    color:rgb(79, 46, 41);
+    line-height : 30px;
+    font-family: 'Comfortaa', cursive;
+    border-style: dotted;
+    border-width: 5px;
+    border-color:rgb(124, 76, 70)
+}
+span{
+    font-weight: bold;
+    font-style: italic;
+}
+#version2{
+    font-weight: bold;
+    font-style: normal;
+}
+footer{
+    background-color:rgb(124, 76, 70);
+    text-align:center;
+    letter-spacing: 50px;
+}
+.bloque{
+    margin-left:85px;
+    margin-bottom: 0px;
+    margin-top: 0px;
+}
